@@ -1,5 +1,8 @@
 # Agile Spark
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/getmorefromlife/agile-spark)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel)](https://agile-spark-main.vercel.app)
+
 A premium, fast, and focused Agile Spark real-time estimation application designed for distributed agile engineering teams. Create estimation rooms, invite team members, manage active user stories, and estimate points collaboratively in real-time.
 
 **Created by Syed Imon Rizvi (MBA, PMP, PSM II, PAL I)**
